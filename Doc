@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello, World!</title>
+    <link rel="stylesheet" href="style.css" />
+    </head>
+<body>
+
+    <script>
+        document.write(Math.random())
+        document.write("<br>")
+        document.write(Math.PI)
+        document.write("<br>")
+        document.write(Math.pow(5,3))
+    </script>
+</body>
+    </html>
